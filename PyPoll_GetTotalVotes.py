@@ -82,6 +82,11 @@ for candidate_name in candidates_votes:
             f"-------------------------\n")
 print(winning_candidate_summary)
 
+#   Module 3. Challenge
+#   Deliverable 1: The Election Results Printed to the Command Line
+#   Deliverable 2: The Election Results Saved to a Text File
+#   Deliverable 3: A written Analysis of the Election Audit (README.md)
+
 # print(total_votes)
 # print(candidates_votes)
 # print(candidates_options)
